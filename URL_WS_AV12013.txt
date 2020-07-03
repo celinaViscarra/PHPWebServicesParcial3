@@ -1,0 +1,6 @@
+PARA ACTUALIZACION DE CONCEPTO
+http://localhost/AV12013/ws_partida_update_av12013.php/?numpartida=07001&corr=001&codcuenta=1101001&concepto=Nuevo&car_abo=C&valor=2000
+PARA EXTRACCION DE DATOS SEGUN FECHA
+//http://localhost/AV12013/ws_cuentas_fecha_av12013.php/?day=02&year=02&month=2020
+
+IP:192.168.1.8
